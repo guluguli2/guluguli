@@ -1,2 +1,3 @@
-#EXTM3U x-tvg-url="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="",ARB 24 http://mu03.amzlive.net:8880/ZYXLM851/2KnH0S6JBq/33066
+
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/wiIJMek.jpg" group-title="",ARB 24 http://mu03.amzlive.net:8880/get.php?username=ZYXLM851&password=2KnH0S6JBq&type=m3u
