@@ -1,1 +1,3 @@
+<?php
 https://www.dropbox.com/s/f7hfkigcibeh8nm/portalgrup1.m3u?dl=1
+?>
