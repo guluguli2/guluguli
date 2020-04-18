@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:2848,TR: La casa de papel 1. Sezon 1. B�l�m
+#EXTINF:2848 group-title="La casa de papel", TR: La casa de papel 1. Sezon 1. B�l�m
 https://e1.ygve.com/storage/media/76f97c77d1641da70a6b2999082ee1e0-720.mp4/master.m3u8
 #EXTINF:0 group-title="La casa de papel", TR: La casa de papel 1. Sezon 2. B�l�m
 https://e1.ygve.com/storage/media/f4f6b660823193a5f92585e5932f562e-720.mp4/master.m3u8
@@ -65,6 +65,7 @@ https://s595sas.storage.yandex.net/rdisk/b1aaae3c5c69f9cd98a8acf4ce03ea439ec1933
 https://s36myt.storage.yandex.net/rdisk/56bedaad7ead0c0d1842233bd61ca5c9ab0874e2dbb4d5e85e817f9cc702b452/5e88c798/nmcTtB1wwTERL2xfvlfg3O39fc8BTaTTwYQD8zHaIApN_kiPFjJo2WCrtHwNcn5EDw5UJHOJyVBd3wb29f9a-Q==?uid=0&filename=ce9d2b232f17297a6ea63de92a19a089-720.mp4&disposition=attachment&hash=&limit=0&content_type=video%2Fmp4&owner_uid=0&fsize=353246117&hid=2b6b1cee81a160d8df9264b448335e62&media_type=video&tknv=v2&etag=4e900011529b72f452743bbdbdcedf94&rtoken=7PIBtBQCfKK1&force_default=no&ycrid=na-c18e384ba8ff991df1bbc121220eb0d9-downloader2f&ts=5a27a978f1600&s=6f6e040fa8feaa6cc0c680aacc26bf009ff59552eb0657cb85775c9bf95f6a37&pb=U2FsdGVkX18bdQNwvtuZKTk53H77IBHG7VX_DeYHO-WCiSPOdo4ofaYaCNu9sM9B15k48UhW-tEE71qAKWETSmAVZkn17Czg-wGZJJlLM6w
 #EXTINF:0 group-title="La casa de papel", TR: La casa de papel 4. Sezon 7. B�l�m
 https://s125iva.storage.yandex.net/rdisk/8ea0ee1750e1791a659d27e5123bcfd44ab4e363c8727d8c88baad4b63b7558e/5e88c79b/nmcTtB1wwTERL2xfvlfg3DiS5qj0PpYi3G1HGQWPdmxkMSmhoRcTCTZXAFiLxLYmQgGYEw3toq9iU6XgQLTAsg==?uid=0&filename=d49816ce8b11d5c1e114e3bab7a29ee8-720.mp4&disposition=attachment&hash=&limit=0&content_type=video%2Fmp4&owner_uid=0&fsize=428824761&hid=36f736ff2261ff13ba713c474e12b786&media_type=video&tknv=v2&etag=f171b15f3de3265f627159580325e178&rtoken=BTQlnv9Ix9BU&force_default=no&ycrid=na-e3d9503ff740cc433072799662f85eea-downloader20h&ts=5a27a97bcdcc0&s=43fa4705eb5f9111d4dcb26783a7b694b64b49b89c0ad6e5085e7286f252da4b&pb=U2FsdGVkX19flMpK4tmhuQRrjwW5-UfDvGz4KOjJ0u9d8_U4WRUOH9bIdeBs3plewuKGCQ8Bz09LQZ8DVhLncdrSzh69xECBLPRZzlNvajM
+
 #EXTINF:0 group-title="Stranger Things", TR: Stranger Things 1. Sezon 1. B�l�m
 https://e1.ygve.com/storage/media/a4b0eb04163a1a14bf10877b4bf233c0-720.mp4/master.m3u8
 #EXTINF:0 group-title="Stranger Things", TR: Stranger Things 1. Sezon 2. B�l�m
@@ -111,3 +112,64 @@ https://t1.ygve.com/storage/media/530b292f4b09ad248f86b63a00369a31-720.mp4/maste
 https://e1.ygve.com/storage/media/69a6b403340209017e9d31c464ec1bfb-720.mp4/master.m3u8
 #EXTINF:0 group-title="Stranger Things", TR: Stranger Things 3. Sezon 8. B�l�m
 https://t1.ygve.com/storage/media/00ddedda880a03f40e442a8c6a192e6f-720.mp4/master.m3u8
+
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 1. B�l�m
+https://t1.ygve.com/storage/media/13eee30a55b6f7553f21ca59cbf0c0e7-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 2. B�l�m
+https://t1.ygve.com/storage/media/6cbda27393befcc8a5729e681795895b-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 3. B�l�m
+https://e1.ygve.com/storage/media/3d357d6d774ac7c4167570203395e8e0-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 4. B�l�m
+https://e1.ygve.com/storage/media/6ba7c8ad2d6732912d9885d53e4ab0ed-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 5. B�l�m
+https://e1.ygve.com/storage/media/846454655036852db148c9568e0de387-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 1. Sezon 6. B�l�m
+https://t1.ygve.com/storage/media/9419e5c72f7175d198a5742ce3c12b9d-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 1. B�l�m
+https://t1.ygve.com/storage/media/e608ccbefb18089ea874840c39eac291-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 2. B�l�m
+https://t1.ygve.com/storage/media/8bc86ab65d85d84505aec54b3441aa09-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 3. B�l�m
+https://t1.ygve.com/storage/media/3d2614ba6f8dabef73321d01ae6182b3-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 4. B�l�m
+https://e1.ygve.com/storage/media/0c34bf0832a9d324d653790b11d8ee71-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 5. B�l�m
+https://e1.ygve.com/storage/media/d9395c0ccbdf5becafde26e1d87adfb9-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 2. Sezon 6. B�l�m
+https://e1.ygve.com/storage/media/66671da1b56cc43ea4efd72beb3adc64-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 1. B�l�m
+https://e1.ygve.com/storage/media/f20bfc07ff4a98b74a4174ae0da1dd2a-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 2. B�l�m
+https://e1.ygve.com/storage/media/a357cb7807a14f3a22ae116cc1c1fb33-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 3. B�l�m
+https://e1.ygve.com/storage/media/954123d71486dddb4fddd3c7a9d6cf3c-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 4. B�l�m
+https://e1.ygve.com/storage/media/0ce8cf4346d550341217eb4454fe4d13-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 5. B�l�m
+https://t1.ygve.com/storage/media/a6377373c0fc1f9be30efa6697f17bd8-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 3. Sezon 6. B�l�m
+https://e1.ygve.com/storage/media/70bfa016ea66d127e1607c9966fa4e04-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 1. B�l�m
+https://e1.ygve.com/storage/media/a2df48380cce591b53eb334a91ccd77b-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 2. B�l�m
+https://e1.ygve.com/storage/media/5d25918a0068da517eab7b4fc1c3c28d-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 3. B�l�m
+https://t1.ygve.com/storage/media/a24f0570c8bdcd38a0ed68d9c736d339-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 4. B�l�m
+https://t1.ygve.com/storage/media/39fe8768627abf3751a70aabcdd3bde4-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 5. B�l�m
+https://t1.ygve.com/storage/media/3d0f7492d8cc770491416fa5692e466e-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 4. Sezon 6. B�l�m
+https://e1.ygve.com/storage/media/4a605ab126b3ef4d0408b41b276c7eb0-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 1. B�l�m
+https://g1.ygve.com/storage/media/21cd8244e16771122929def2673cb6fc-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 2. B�l�m
+https://x1.ygve.com/storage/media/b9562c8885b290237bea135a51c7c7c9-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 3. B�l�m
+https://x1.ygve.com/storage/media/abed6a67024bca5fda553690ccc25744-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 4. B�l�m
+https://x1.ygve.com/storage/media/87c804d3ccbcf57bd842b1917e1b665b-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 5. B�l�m
+https://g1.ygve.com/storage/media/1ec75048f18152dca3473242f66be94e-720.mp4/master.m3u8
+#EXTINF:0 group-title="Peaky Blinders", TR: Peaky Blinders 5. Sezon 6. B�l�m
+https://x1.ygve.com/storage/media/75e4434b84c04cb90561a92dbf8e4d25-720.mp4/master.m3u8
