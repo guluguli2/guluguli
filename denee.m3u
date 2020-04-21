@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:1 group-title="Atiye", TR: Atiye 1. Sezon 1. B�l�m
+#EXTINF:0 group-title="Atiye", TR: Atiye 1. Sezon 1. B�l�m
 https://g1.ygve.com/storage/media/7864cb4e5f5b784124258460ec1b0679-720.mp4/master.m3u8
 #EXTINF:0 group-title="Atiye", TR: Atiye 1. Sezon 2. B�l�m
 https://x1.ygve.com/storage/media/f6bef450fc9664523bb52e0a3b833cd0-720.mp4/master.m3u8
@@ -1467,5 +1467,5 @@ https://v1.ygve.com/storage/media/286f9e5c6ec85848df0d1d478bc1d8e2-720.mp4/maste
 https://v1.ygve.com/storage/media/4e7b747a5a9d4e48fe51a9b5b82539d6-720.mp4/master.m3u8
 #EXTINF:0,TR: Marvel's Runaways 2. Sezon 12. B?l?m
 https://v1.ygve.com/storage/media/fc0f45b43a53cba8670070b7e4107b44-720.mp4/master.m3u8
-#EXTINF:1,TR: Marvel's Runaways 2. Sezon 13. B?l?m
+#EXTINF:0,TR: Marvel's Runaways 2. Sezon 13. B?l?m
 https://v1.ygve.com/storage/media/a34657277eb400e360d63352da121bfe-720.mp4/master.m3u8
